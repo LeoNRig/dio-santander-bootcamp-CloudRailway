@@ -4,6 +4,10 @@
 classDiagram
     class User {
         -String name
+        -Account account
+        -Features[] feature
+        -Card card
+        -News[] news
     }
 
     class Account {
