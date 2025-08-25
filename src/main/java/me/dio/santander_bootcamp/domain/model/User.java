@@ -1,4 +1,4 @@
-package me.dio.santander_bootcamp.model;
+package me.dio.santander_bootcamp.domain.model;
 
 import java.util.List;
 
